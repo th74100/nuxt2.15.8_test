@@ -8,7 +8,7 @@ export default {
     name: 'index',
     data() {
         return {
-            msg: 'this is test NUXT'
+            msg: 'this is test'
         }
     }
 }
